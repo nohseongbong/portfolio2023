@@ -1,5 +1,13 @@
+import SwiperMain from "@/components/swiper/SwiperMain";
+import { useTodos } from "@/hooks/useProjects";
+
 const Maincontainer = () => {
-  return <div>메인 페이지</div>;
+  const { projects } = useTodos();
+  return (
+    <div className="w-screen h-full bg-pink">
+      <SwiperMain projects={projects} />
+    </div>
+  );
 };
 
 export default Maincontainer;
