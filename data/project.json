@@ -1,11 +1,101 @@
 [
   {
-    "name": "듣똑라"
+    "name": "PlacePick",
+    "images": [
+      "/images/placepick/placepick_0.png",
+      "/images/placepick/placepick_1.png",
+      "/images/placepick/placepick_2.png",
+      "/images/placepick/placepick_3.png",
+      "/images/placepick/placepick_4.png",
+      "/images/placepick/placepick_5.png"
+    ]
   },
   {
-    "name": "WALA"
+    "name": "Branway",
+    "images": [
+      "/images/branway/branway_0.jpeg",
+      "/images/branway/branway_1.jpeg",
+      "/images/branway/branway_2.jpeg",
+      "/images/branway/branway_3.jpeg",
+      "/images/branway/branway_4.jpeg",
+      "/images/branway/branway_5.jpeg",
+      "/images/branway/branway_6.jpeg"
+    ]
   },
   {
-    "name": "Branway"
+    "name": "WALA",
+    "images": [
+      "/images/wala/wala_0.jpeg",
+      "/images/wala/wala_1.jpeg",
+      "/images/wala/wala_2.jpeg",
+      "/images/wala/wala_3.jpeg",
+      "/images/wala/wala_4.jpeg",
+      "/images/wala/wala_5.jpeg"
+    ]
+  },
+  {
+    "name": "Duruper",
+    "images": [
+      "/images/duruper/duruper_0.jpeg",
+      "/images/duruper/duruper_1.jpeg",
+      "/images/duruper/duruper_2.jpeg",
+      "/images/duruper/duruper_3.jpeg",
+      "/images/duruper/duruper_4.jpeg",
+      "/images/duruper/duruper_5.jpeg"
+    ]
+  },
+  {
+    "name": "듣똑라",
+    "images": [
+      "/images/joongang/joongang_0.jpeg",
+      "/images/joongang/joongang_1.jpeg",
+      "/images/joongang/joongang_2.jpeg",
+      "/images/joongang/joongang_3.jpeg",
+      "/images/joongang/joongang_4.jpeg"
+    ]
+  },
+  {
+    "name": "Shopamomento",
+    "images": [
+      "/images/amt/amt_0.jpeg",
+      "/images/amt/amt_1.jpeg",
+      "/images/amt/amt_2.jpeg",
+      "/images/amt/amt_3.jpeg",
+      "/images/amt/amt_4.jpeg",
+      "/images/amt/amt_5.jpeg"
+    ]
+  },
+  {
+    "name": "공임비교",
+    "images": [
+      "/images/auton/auton_0.jpeg",
+      "/images/auton/auton_1.jpeg",
+      "/images/auton/auton_2.jpeg",
+      "/images/auton/auton_3.jpeg",
+      "/images/auton/auton_4.jpeg"
+    ]
+  },
+  {
+    "name": "kiips",
+    "images": [
+      "/images/kiips/kiips_0.jpeg",
+      "/images/kiips/kiips_1.jpeg",
+      "/images/kiips/kiips_2.jpeg",
+      "/images/kiips/kiips_3.jpeg",
+      "/images/kiips/kiips_4.jpeg",
+      "/images/kiips/kiips_5.jpeg"
+    ]
+  },
+  {
+    "name": "Thundering",
+    "images": [
+      "/images/thundering/thundering_0.jpeg",
+      "/images/thundering/thundering_1.jpeg",
+      "/images/thundering/thundering_2.jpeg",
+      "/images/thundering/thundering_3.jpeg",
+      "/images/thundering/thundering_4.jpeg",
+      "/images/thundering/thundering_5.jpeg",
+      "/images/thundering/thundering_6.jpeg"
+    ]
   }
 ]
