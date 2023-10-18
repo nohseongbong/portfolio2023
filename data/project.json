@@ -9,7 +9,8 @@
       "/images/placepick/placepick_4.png",
       "/images/placepick/placepick_5.png"
     ],
-    "banner_image": "/images/banner/placepick_logo.png"
+    "banner_image": "/images/banner/placepick_logo.png",
+    "bg_image": "/images/bg/placepick_bg.png"
   },
   {
     "name": "Branway",
@@ -22,7 +23,8 @@
       "/images/branway/branway_5.jpeg",
       "/images/branway/branway_6.jpeg"
     ],
-    "banner_image": "/images/banner/branway_logo.png"
+    "banner_image": "/images/banner/branway_logo.png",
+    "bg_image": "/images/bg/branway_bg.png"
   },
   {
     "name": "WALA",
@@ -34,7 +36,8 @@
       "/images/wala/wala_4.jpeg",
       "/images/wala/wala_5.jpeg"
     ],
-    "banner_image": "/images/banner/wala_logo.png"
+    "banner_image": "/images/banner/wala_logo.png",
+    "bg_image": "/images/bg/wala_bg.png"
   },
   {
     "name": "Duruper",
@@ -46,7 +49,8 @@
       "/images/duruper/duruper_4.jpeg",
       "/images/duruper/duruper_5.jpeg"
     ],
-    "banner_image": "/images/banner/duruper_logo.png"
+    "banner_image": "/images/banner/duruper_logo.png",
+    "bg_image": "/images/bg/duruper_bg.png"
   },
   {
     "name": "듣똑라",
@@ -57,7 +61,8 @@
       "/images/joongang/joongang_3.jpeg",
       "/images/joongang/joongang_4.jpeg"
     ],
-    "banner_image": "/images/banner/joongang_logo.png"
+    "banner_image": "/images/banner/joongang_logo.png",
+    "bg_image": "/images/bg/joongang_bg.png"
   },
   {
     "name": "Shopamomento",
@@ -69,7 +74,8 @@
       "/images/amt/amt_4.jpeg",
       "/images/amt/amt_5.jpeg"
     ],
-    "banner_image": "/images/banner/amt_logo.png"
+    "banner_image": "/images/banner/amt_logo.png",
+    "bg_image": "/images/bg/amt_bg.png"
   },
   {
     "name": "공임비교",
@@ -80,7 +86,8 @@
       "/images/auton/auton_3.jpeg",
       "/images/auton/auton_4.jpeg"
     ],
-    "banner_image": "/images/banner/auton_logo.png"
+    "banner_image": "/images/banner/auton_logo.png",
+    "bg_image": "/images/bg/auton_bg.png"
   },
   {
     "name": "kiips",
@@ -92,7 +99,8 @@
       "/images/kiips/kiips_4.jpeg",
       "/images/kiips/kiips_5.jpeg"
     ],
-    "banner_image": "/images/banner/kiips_logo.png"
+    "banner_image": "/images/banner/kiips_logo.png",
+    "bg_image": "/images/bg/kiips_bg.png"
   },
   {
     "name": "Thundering",
@@ -105,6 +113,7 @@
       "/images/thundering/thundering_5.jpeg",
       "/images/thundering/thundering_6.jpeg"
     ],
-    "banner_image": "/images/banner/thundering_logo.png"
+    "banner_image": "/images/banner/thundering_logo.png",
+    "bg_image": "/images/bg/thundering_bg.png"
   }
 ]
