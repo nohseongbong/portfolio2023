@@ -8,7 +8,8 @@
       "/images/placepick/placepick_3.png",
       "/images/placepick/placepick_4.png",
       "/images/placepick/placepick_5.png"
-    ]
+    ],
+    "banner_image": "/images/banner/placepick_logo.png"
   },
   {
     "name": "Branway",
@@ -20,7 +21,8 @@
       "/images/branway/branway_4.jpeg",
       "/images/branway/branway_5.jpeg",
       "/images/branway/branway_6.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/branway_logo.png"
   },
   {
     "name": "WALA",
@@ -31,7 +33,8 @@
       "/images/wala/wala_3.jpeg",
       "/images/wala/wala_4.jpeg",
       "/images/wala/wala_5.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/wala_logo.png"
   },
   {
     "name": "Duruper",
@@ -42,7 +45,8 @@
       "/images/duruper/duruper_3.jpeg",
       "/images/duruper/duruper_4.jpeg",
       "/images/duruper/duruper_5.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/duruper_logo.png"
   },
   {
     "name": "듣똑라",
@@ -52,7 +56,8 @@
       "/images/joongang/joongang_2.jpeg",
       "/images/joongang/joongang_3.jpeg",
       "/images/joongang/joongang_4.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/joongang_logo.png"
   },
   {
     "name": "Shopamomento",
@@ -63,7 +68,8 @@
       "/images/amt/amt_3.jpeg",
       "/images/amt/amt_4.jpeg",
       "/images/amt/amt_5.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/amt_logo.png"
   },
   {
     "name": "공임비교",
@@ -73,7 +79,8 @@
       "/images/auton/auton_2.jpeg",
       "/images/auton/auton_3.jpeg",
       "/images/auton/auton_4.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/auton_logo.png"
   },
   {
     "name": "kiips",
@@ -84,7 +91,8 @@
       "/images/kiips/kiips_3.jpeg",
       "/images/kiips/kiips_4.jpeg",
       "/images/kiips/kiips_5.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/kiips_logo.png"
   },
   {
     "name": "Thundering",
@@ -96,6 +104,7 @@
       "/images/thundering/thundering_4.jpeg",
       "/images/thundering/thundering_5.jpeg",
       "/images/thundering/thundering_6.jpeg"
-    ]
+    ],
+    "banner_image": "/images/banner/thundering_logo.png"
   }
 ]
