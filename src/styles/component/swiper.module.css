@@ -2,3 +2,21 @@
   width: 100%;
   height: 100%;
 }
+
+.swiper_item {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swiper_item_image {
+  width: 60%;
+  overflow: hidden;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.swiper_item_image:hover {
+  transform: scale(1.02);
+}
