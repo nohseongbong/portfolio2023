@@ -1,0 +1,40 @@
+.skill_wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 100px;
+  text-align: center;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  width: 85%;
+  padding: 50px 0;
+  margin: 100px 0;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 75px;
+}
+
+.list_item {
+  width: 130px;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image_square {
+  width: 120px;
+  height: 120px;
+}
+.image_landscape {
+  width: 120px;
+  height: 80px;
+}

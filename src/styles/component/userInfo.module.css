@@ -1,0 +1,18 @@
+.user_info_wrap {
+  display: flex;
+  width: 100%;
+  background-color: black;
+  justify-content: space-between;
+  padding: 10%;
+  color: #fff;
+}
+
+.user_info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  padding-left: 10%;
+  font-size: 1.5rem;
+}
