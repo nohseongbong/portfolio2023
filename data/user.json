@@ -1,0 +1,29 @@
+{
+  "name": "Noh SeongBong",
+  "age": 30,
+  "mbti": "ISTJ-A",
+  "image": "/images/about/my.png",
+  "skill": [
+    { "name": "HTML5", "image": "/images/skill/html.png", "type": "square_image" },
+    { "name": "CSS3", "image": "/images/skill/css.png", "type": "square_image" },
+    { "name": "Javascript", "image": "/images/skill/js.png", "type": "square_image" },
+    { "name": "Typescript", "image": "/images/skill/typescript.png", "type": "square_image" },
+    { "name": "React", "image": "/images/skill/react.png", "type": "square_image" },
+    { "name": "ReactNative", "image": "/images/skill/react_native.png", "type": "square_image" },
+    { "name": "Next.js", "image": "/images/skill/nextjs.svg", "type": "square_image" },
+    { "name": "ReactQuery", "image": "/images/skill/react_query.svg", "type": "square_image" },
+    { "name": "Mobx", "image": "/images/skill/mobx.png", "type": "landscape_image" },
+    { "name": "Zustand", "image": "/images/skill/zustand.png", "type": "landscape_image" },
+    { "name": "Recoil", "image": "/images/skill/recoil.png", "type": "square_image" },
+    { "name": "PlayStore", "image": "/images/skill/playStore.jpeg", "type": "landscape_image" },
+    { "name": "AppStore", "image": "/images/skill/appStore.png", "type": "landscape_image" },
+    { "name": "Firebase", "image": "/images/skill/Firebase_Logo.png", "type": "landscape_image" }
+  ],
+  "tool": [
+    { "name": "AndroidStudio", "image": "/images/skill/android.png", "type": "landscape_image" },
+    { "name": "Xcode", "image": "/images/skill/xcode.png", "type": "square_image" },
+    { "name": "VisualStudioCode", "image": "/images/skill/vsc.png", "type": "square_image" },
+    { "name": "Figma", "image": "/images/skill/figma.png", "type": "square_image" },
+    { "name": "XD", "image": "/images/skill/xd.png", "type": "square_image" }
+  ]
+}
