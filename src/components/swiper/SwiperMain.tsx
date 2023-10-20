@@ -2,11 +2,11 @@ import { Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Image from "next/image";
 import styles from "@/styles/component/swiper.module.css";
+import { Project } from "@/types/project";
 
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
-import { Project } from "@/types/project";
 
 interface Props {
   projects: Project[];
