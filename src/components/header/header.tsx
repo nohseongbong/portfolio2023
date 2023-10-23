@@ -8,7 +8,7 @@ const Header = () => {
       <ul className={styles.nav_list}>
         <li className={styles.nav_list_item}>
           <Link legacyBehavior href="/">
-            <a className={styles.nav_list_item_text}>Works</a>
+            <a className={styles.nav_list_item_text}>Projects</a>
           </Link>
         </li>
         <li className={styles.nav_list_item}>

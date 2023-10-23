@@ -7,6 +7,7 @@ import { Project } from "@/types/project";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import Link from "next/link";
 
 interface Props {
   projects: Project[];
@@ -25,9 +26,11 @@ const SwiperMain = ({ projects }: Props) => {
       {projects.map((item, index) => {
         return (
           <SwiperSlide key={index}>
-            <div className={styles.swiper_item} style={{ background: `url(${item.bg_image})` }}>
-              <Image className={styles.swiper_item_image} width={1920} height={1080} src={item.banner_image} alt={"test"} />
-            </div>
+            <Link href={`/project/${item.id}`}>
+              <div className={styles.swiper_item} style={{ background: `url(${item.bg_image})` }}>
+                <Image className={styles.swiper_item_image} width={1920} height={1080} src={item.banner_image} alt={"test"} />
+              </div>
+            </Link>
           </SwiperSlide>
         );
       })}
