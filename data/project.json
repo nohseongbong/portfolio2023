@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "name": "PlacePick",
     "images": [
       "/images/placepick/placepick_0.png",
@@ -13,6 +14,7 @@
     "bg_image": "/images/bg/placepick_bg.png"
   },
   {
+    "id": 1,
     "name": "Branway",
     "images": [
       "/images/branway/branway_0.jpeg",
@@ -27,6 +29,7 @@
     "bg_image": "/images/bg/branway_bg.png"
   },
   {
+    "id": 2,
     "name": "WALA",
     "images": [
       "/images/wala/wala_0.jpeg",
@@ -40,6 +43,7 @@
     "bg_image": "/images/bg/wala_bg.png"
   },
   {
+    "id": 3,
     "name": "Duruper",
     "images": [
       "/images/duruper/duruper_0.jpeg",
@@ -53,6 +57,7 @@
     "bg_image": "/images/bg/duruper_bg.png"
   },
   {
+    "id": 4,
     "name": "듣똑라",
     "images": [
       "/images/joongang/joongang_0.jpeg",
@@ -65,6 +70,7 @@
     "bg_image": "/images/bg/joongang_bg.png"
   },
   {
+    "id": 5,
     "name": "Shopamomento",
     "images": [
       "/images/amt/amt_0.jpeg",
@@ -78,6 +84,7 @@
     "bg_image": "/images/bg/amt_bg.png"
   },
   {
+    "id": 6,
     "name": "공임비교",
     "images": [
       "/images/auton/auton_0.jpeg",
@@ -90,6 +97,7 @@
     "bg_image": "/images/bg/auton_bg.png"
   },
   {
+    "id": 7,
     "name": "kiips",
     "images": [
       "/images/kiips/kiips_0.jpeg",
@@ -103,6 +111,7 @@
     "bg_image": "/images/bg/kiips_bg.png"
   },
   {
+    "id": 8,
     "name": "Thundering",
     "images": [
       "/images/thundering/thundering_0.jpeg",
